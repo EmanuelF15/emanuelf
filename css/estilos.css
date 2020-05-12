@@ -1,0 +1,40 @@
+body {
+  background-image: url('https://walli.quosmos.com/files/thumbs/c/0/d/c0d174030dda7179142cd36dd79c1611112e4688/color1__800_800.jpg');
+  background-size: auto 100vh;
+  font-family: Arial;
+  height: 100vh;
+}
+
+header {
+  background: #cdcdcd;
+}
+
+.menu ul{
+  display: flex;
+  justify-content: space-around;
+}
+
+.menu li{
+  list-style: none;
+}
+
+a {
+ text-decoration: none;
+ color: black;
+}
+
+a:hover {
+  color: blue;
+}
+
+.titulo {
+  text-align: center;
+}
+
+.subtitulo {
+  text-align: center;
+  font-size: 18px;
+  color: #303030;
+  font-style: italic;
+}
+
